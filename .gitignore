@@ -1,0 +1,21 @@
+﻿# Dependencies
+node_modules/
+.next/
+.yarn/
+
+# Environment variables
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Firebase
+firebase-debug.log
+.firebase/
+
+# Build output
+.next/
+out/
+
+# Logs
+*.log
